@@ -1,0 +1,5 @@
+# Defacing-the-face-project
+
+This project is inspired by the Zach Blas's ＜Facial Weaponization Suite＞. With the development of technology, even when we are not aware, individual biometric facial data are being collected every minute in our daily lives. Such facial recognition technologies capture and calculate particular qualities from human faces, and categorize faces according to their races, genders, ages, religions, and even sexualities. This can intensify discrimination and inequality by marking minorities who are not incorporated into mainstream society with their facial data.
+
+The goal of this project is to make the masked face that cannot be detected by facial recognition technologies. First, the model is trained to classify faces based on the race and gender. Then the program detects user's face with a webcam, and idenfies her/his race and gender by using the trained model. Finally, the program defaces the user's face by overlaying the mask on the face, and lets the user to escape from facial recognition technologies.
